@@ -15,31 +15,31 @@ Low visibility is often correlated with high humidity and low temperatures (espe
 
 It's crucial for aviation, marine operations, and road safety.
 
-2. Temperature
+# 2. Temperature
 A fundamental weather variable, temperature affects evaporation, precipitation, wind formation, and comfort levels.
 
 Sudden changes in temperature can lead to weather fronts, storms, or clear skies depending on accompanying variables.
 
-3. Dew Point
+# 3. Dew Point
 The dew point is the temperature at which air becomes saturated and condensation begins.
 
 A higher dew point means more moisture in the air, which leads to fog, clouds, or precipitation.
 
 The difference between temperature and dew point is often used to predict fog and humidity.
 
-4. Humidity
+# 4. Humidity
 Relative humidity reflects the amount of moisture in the air relative to the temperature.
 
 High humidity levels are typically accompanied by lower visibility and higher dew points.
 
-5. Wind Speed and Direction
+# 5. Wind Speed and Direction
 Wind redistributes heat and moisture across regions.
 
 It plays a role in cloud movement, temperature moderation, and pollution dispersion.
 
 High wind speeds often improve visibility by dispersing fog or dust.
 
-6. Atmospheric Pressure
+# 6. Atmospheric Pressure
 Fluctuations in pressure signal approaching weather systems.
 
 Low pressure often brings clouds and precipitation, while high pressure is associated with clear skies.
