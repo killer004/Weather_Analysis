@@ -6,7 +6,7 @@
 
 This project/report aims to analyze weather patterns by studying how fluctuations in key meteorological variables impact overall weather conditions.
 
-#1. Visibility
+# 1. Visibility
 Visibility refers to the distance one can clearly see.
 
 It is strongly influenced by fog, mist, pollution, and precipitation.
