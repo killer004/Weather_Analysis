@@ -1,8 +1,7 @@
 # Weather_Analysis
 # A weather report analyzing how changes in visibility, temperature, dew point, and other variables affect weather conditions.
 
-
-# Weather conditions are dynamic and influenced by a wide range of atmospheric parameters. Among the most critical variables affecting weather are temperature, visibility, dew point, humidity, wind speed, and pressure. Understanding how these factors interact and change over time is essential for accurate forecasting, climate analysis, and public safety.
+Weather conditions are dynamic and influenced by a wide range of atmospheric parameters. Among the most critical variables affecting weather are temperature, visibility, dew point, humidity, wind speed, and pressure. Understanding how these factors interact and change over time is essential for accurate forecasting, climate analysis, and public safety.
 
 This project/report aims to analyze weather patterns by studying how fluctuations in key meteorological variables impact overall weather conditions.
 
